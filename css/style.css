@@ -1,0 +1,508 @@
+ *{font-family: Raleway;}       
+
+#logo {color: #0065FC;
+       font-size: 22px;
+       font-family: "Raleway", sans-serif;
+       font-weight: 500;
+       margin-right: auto;}
+
+.fstbox {display: flex;
+         flex-direction: row-reverse;}
+
+a {font-size: 16px;
+   font-family: "Raleway", sans-serif;
+   font-weight: 400;
+   text-decoration: none;}
+
+
+
+
+h2 {font-size: 22px;
+    font-family: "Raleway", sans-serif;
+    padding-top: 16px;
+    margin-bottom: 1px;}
+
+
+p {font-size: 16px;
+   font-family: "Raleway", sans-serif;
+   font-weight: 400;}
+
+#heart {margin-top: 8px;}
+
+.header {display: flex;
+         flex-direction: row;
+         gap: 52px;
+         justify-content: flex-end;
+         flex-wrap: wrap;
+         text-align: center;}
+
+
+.container {display: flex;
+            flex-direction: row;
+            width: auto;
+            margin: 35px 0px 35px 0px;
+            font-size: 18px;
+            font-family: "Raleway", sans-serif;
+            font-weight: 700;}
+
+.loc {border: 1px solid #F2F2F2;
+      padding: 16px;
+      background-color: #F2F2F2;
+      color: black;
+      border-top-left-radius: 18px;
+      border-bottom-left-radius: 18px;
+      max-width: 17px;}
+
+
+.france {border: 1px solid #F2F2F2;
+         padding: 14px 0px 14px 14px;
+         width: 185px;
+         text-align: center;
+         border-right: none;}
+
+
+
+.sear {border: 1px solid #0065FC;
+       padding: 16px;
+       background-color: #0065FC;
+       color: white;
+       border-top-right-radius: 18px;
+       border-bottom-right-radius: 18px;
+       width: 64px;}
+
+
+ 
+
+.sndbox {display: flex;
+         flex-direction: row;
+         justify-content: start;
+         padding-bottom: 22px;
+         flex-wrap: wrap;
+         align-items: center;
+         text-align: center;}
+
+
+
+#filters {font-size: 18px;
+          font-family: "Raleway", sans-serif;
+          font-weight: 700;}
+
+#filterx {font-size: 18px;
+          font-family: "Raleway", sans-serif;
+          font-weight: 700;
+          display: none;}
+
+#budget {font-size: 17px;
+         font-family: "Raleway", sans-serif;
+         font-weight: 700;
+         border: 2px solid #D9D9D9;
+         border-radius: 50px;
+         width: 95px;
+         padding: 12px;
+         margin: 8px 8px 8px 16px;
+         text-align: end;
+         padding-right: 20px;}
+
+#mars {margin: 20px 400px 0px 0px;
+       display: flex;
+       width: 350px;
+       flex-direction: row;}
+
+#family {font-size: 17px;
+         font-family: "Raleway", sans-serif;
+         font-weight: 700;
+         border: 2px solid #D9D9D9;
+         border-radius: 50px;
+         width: 155px;
+         padding: 12px;
+         margin: 8px;
+         text-align: end;
+         padding-right: 20px;}
+
+#romantic {font-size: 17px;
+           font-family: "Raleway", sans-serif;
+           font-weight: 700;
+           border: 2px solid #D9D9D9;
+           border-radius: 50px;
+           width: 110px;
+           padding: 12px;
+           margin: 8px;
+           text-align: end;
+           padding-right: 20px;}
+
+#top {font-size: 17px;
+      font-family: "Raleway", sans-serif;
+      font-weight: 700;
+      border: 2px solid #D9D9D9;
+      border-radius: 50px;
+      max-width: 145px;
+      padding: 12px;
+      margin: 8px;
+      text-align: end;
+      padding-right: 20px;}
+
+
+#budget:hover {background-color: #DEEBFF;}
+#family:hover {background-color: #DEEBFF;}
+#romantic:hover {background-color: #DEEBFF;}
+#top:hover {background-color: #DEEBFF;}
+
+h3 {font-size: 22px;
+    font-family: "Raleway", sans-serif;}
+
+h4 {font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    flex-wrap: nowrap;}
+
+
+.thg:hover  {border-top: 3px solid #0065FC;
+             color: #0065FC;
+             padding-top: 5px;}
+
+
+.thg  {border-top: 3px solid #F2F2F2;
+       border-bottom: 3px solid white;
+       padding-top: 5px;
+       color: black;}
+
+
+.info {font-size: 16px;
+       font-family: "Raleway", sans-serif;
+       font-weight: 400;
+       margin-top: 17px;}
+
+.fifthbox {display: flex;
+           flex-direction: row;
+           justify-content: space-around;
+           text-align: start;
+           background-color: #F2F2F2;
+           padding: 0px 0px 25px 0px;
+           margin-top: 80px;
+           gap: 0px 100px}
+
+
+.supp {margin-right: 270px;}
+.acc {margin-right: 60px;}
+.abt {margin-right: 50px;}
+
+
+
+
+
+.orizbox {border: 2px solid #F2F2F2;
+          border-radius: 15px;
+          background-color: #F2F2F2;
+          display: flex;
+          max-width: 800px;
+          flex-direction: row;
+          flex-wrap: wrap;
+          gap: 16px 22px;
+          padding-left: 26px;}
+           
+
+
+#show {margin-top: auto;}
+
+
+
+.pop {border: 2px solid #F2F2F2;
+      border-radius: 15px;
+      background-color: #F2F2F2;
+      max-width: 500px;
+      padding-left: 26px;
+      gap: 12px 22px;
+      display: flex;
+      flex-direction: column;} 
+
+
+ 
+
+.trdbox {display: flex;
+         flex-direction: row;
+         gap: 45px;}
+
+
+.city {margin-bottom: 1px;
+       width: 350px;
+
+       display: flex; 
+       flex-direction: row;
+       align-items: center;}
+
+
+
+.card {box-shadow: 0px 1px 2px 0px;
+       transition: 0.3s;
+       border-radius: 15px;
+       max-width: 30%;
+       height: 195px;
+       background-color: white;
+       flex-wrap: wrap;}
+
+.container2 {margin-left: 15px;}
+
+.hotel {font-size: 16px;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        margin: 2px 0px 0px 0px;}
+
+
+.price {font-size: 14px;
+        font-family: "Raleway", sans-serif;
+        font-weight: 400;
+        padding-bottom: 4px;}
+
+
+.cardv {transition: 0.3s;
+        box-shadow: 0px 1px 2px 0px;
+        border-radius: 15px;
+        max-width: 95%;
+        margin: 10px 0px;
+        background-color: white;
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: row;}
+
+
+.container3 {display: flex;
+             flex-direction: row;
+             flex-wrap: wrap;
+             width: 230px;
+             height: 50px;
+             padding: 8px 0px 0px 16px;
+             }
+
+.hotelv {margin: 0px 50px 1px 0px;
+         padding-top: 4px;
+         font-size: 16px;
+         max-width: 185px;
+         font-family: "Raleway", sans-serif;
+         font-weight: 700;}
+
+.pricev {font-size: 14px;
+         height: 53px;
+         margin-top: 1px;
+         width: 250px;
+         font-family: "Raleway", sans-serif;
+         font-weight: 400;
+         flex-wrap: nowrap;}
+
+
+.pricevf {font-size: 14px;
+         height: 35px;
+         margin-top: 1px;
+         width: 250px;
+         font-family: "Raleway", sans-serif;
+         font-weight: 400;
+         flex-wrap: nowrap;}
+
+
+.cardo {transition: 0.3s;
+        border-radius: 15px;
+        height: 450px;
+        width: 100%;
+        background-color: white;
+        box-shadow: 0px 2px 4px 0px;}
+
+
+.things {font-size: 18px;
+         font-family: "Raleway", sans-serif;
+         font-weight: 700;
+         margin-top: 1px;}
+
+
+.container4 {padding-top: 16px;
+             padding-left: 16px;
+}
+
+.fourbox {display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          gap: 16px;
+          margin: 0px 32px;}
+
+
+#activ {margin: 60px 0px 40px 32px;}
+
+
+ .fa-info {color: #0065FC;
+           font-size: 13px;
+           margin: 0px 12px 0px 0px;
+           border: 2px solid #F2F2F2;
+           border-radius: 50%;
+           padding: 6px 10px;}
+
+.fa-location-dot {color: black;
+                  padding-left: 4px;}
+
+
+
+.fa-money-bill-wave {color: #0065FC;
+                     margin-right: 9px;
+                     font-size: 18px;
+                    }
+
+
+.fa-person{color: #0065FC;
+           margin-right: 7px;
+           font-size: 24px;}
+
+
+.fa-heart {color: #0065FC;
+          padding-right: 8px;
+          font-size: 20px;}
+
+
+.fa-fire{color: #0065FC;
+         padding-right: 6px;
+         font-size: 18px;}
+
+
+.fa-chart-line{color: #0065FC;
+               font-size: 18px;
+               margin-left: 180px;}
+
+.star {color: #F2F2F2 !important;
+       padding-bottom: 8px;}
+
+
+.fa-star {color: #0065FC;
+          padding-top: 0px;
+          padding-bottom: 8px;}
+
+
+.fa-magnifying-glass {display: none;}
+
+
+.available {display: flex;
+            flex-direction: row;
+            max-height: 30px;
+            margin-bottom: 30px;
+            align-items: center;}
+
+
+
+
+#lock {position:relative;
+       left: 36.3px;
+       bottom: 2.5px;}
+
+.webpage {margin: 0px 32px;}
+
+
+
+@media (min-width: 768px) and (max-width:1024px)
+
+{.trdbox {flex-direction: column; justify-content: center; gap: 60px;}
+.orizbox {max-width: 1200px; gap: 18px 30px;}
+.pop {flex-direction: row; max-width: 1200px; flex-wrap: wrap; padding-bottom: 26px; padding-left: 20px;}
+.cardv {height: 150px; width: 280px;}
+.city {width: 1730px; height: fit-content;}
+.fa-chart-line {margin-left: 720px;}
+.pricev {height: 80px;}
+.pricevf {height: 60px;}
+.abt {margin-left: 30px;}
+.supp {margin-right: 175px;} 
+.cardo {height: 335px;}
+.container4 {padding-top: 12px;} 
+.card {width: 300px; height: 210px;}
+#filters {display: none;}
+#filterx {display: inline-block; padding-left: 18px; margin-bottom: 8px;}
+#ol {padding-top: 10px;}
+#pom {padding-top: 10px;}
+#blu {width: 135px;}
+#seot {height: 60px;}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 767px) 
+
+{.fstbox {display: flex; flex-direction: column-reverse;} 
+#logo{margin-bottom:10px; padding-left: 170px; margin-top: 10px; font-size: 30px;} 
+.thg {font-size: larger; border-color: white;} 
+.thg:hover {border-bottom: 2px solid #0065FC; border-top: none; padding-bottom: 15px;}
+
+.header {display: flex; 
+         flex-direction: row; 
+         justify-content:space-around; 
+         border: 2px solid white; 
+         padding: 15px;
+         border-bottom-color:#F2F2F2;}
+         
+
+/* .header div:hover {border: 2px solid #0065FC;}  */
+
+
+
+#budget,#family,#romantic,#top {width: 150px;
+text-align: center;} 
+section {display: flex; flex-direction: column; justify-content: center; margin: 0px auto;}
+.orizbox {background-color: white; border: none; display: block; padding-left: 18px;}
+.trdbox {display: flex; flex-direction: column-reverse;}
+.pop {border-radius: 0px; gap: 0px; display: flex; flex-direction: column; justify-content: center; height: 525px; padding-bottom: 10px;}
+.fourbox {display: block;}
+.fifthbox {display: block; padding: 8px 0px 30px 30px; margin-top: 50px;}
+img {max-width: 100%;}
+#lock {position:relative; left: 49px; bottom: 4.5px;}
+#filters {display: none;}
+.sndbox {display: flex; align-items: center; justify-content: center; padding-bottom: 30px;}
+.things {padding-bottom: 10px; font-size: 20px;}
+.cardo {height: 240px; margin: 18px 0px;}
+.container4 {text-align: start; padding-left: 16px;}
+.card {margin: 16px 0px 0px 0px; max-width: 390px; min-height: 230px ;}
+#show {margin-top: 16px; font-size: 22px;}
+.webpage {margin: 0px auto;}
+#activ {margin: 60px 0px 20px 30px;}
+p {padding-left: 25px; flex-wrap: wrap; width: 310px;} 
+h2 {padding-left: 25px; width: 300px;}
+#cinquec {padding: 0px;}
+.container{padding-left: 25px;}
+#filterx {padding-left: 20px; margin-bottom: 10px; display: inline-block; font-size: 21px;}
+h3 {font-size: 27px;}
+#mars {margin-top: 0px;}
+.city {width: 400px; margin-top: 8px;}
+.fa-magnifying-glass {border: 2px solid #0065FC;background-color: #0065FC; color:white; border-radius: 18px; border-width: 18px; height: 22px; width: 22px; display: block;}
+#lent {box-shadow: 0px 2px 4px 0px black; border-radius: 19px;}
+.orizbox img {max-height: 70%;}
+.fourbox img {max-height: 75%;}
+.sear {display: none;}
+.france {padding-right: 80px; font-size: 20px;}
+.hotelv {margin: 0px;}
+.pricev {margin: 0px; padding-left: 0px; height: 80px;}
+.pricevf {padding-left: 0px; height: 50px;}
+.container3 {width: 200px;}
+body {margin: 0;}}
+
+
+
+
+
+@media (min-width: 1435px) and (max-width:1440px)
+{.webpage {display: flex; flex-direction: column; margin: 0 128px;}
+#mars {max-width: 350px;}
+.city {max-width: 350px;}
+.pop,.orizbox {padding-left: 16px;}
+.trdbox {gap: 25px;}
+.cardo {height: 390px;}
+.container4 {padding-top: 12px;}}
