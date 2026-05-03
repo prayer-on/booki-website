@@ -10,7 +10,7 @@
 
 <h3>💻 Functionalities:</h3>
 
-- Design responsive
+- Responsive design
 - Interactive UI elements
 - Semantic HTML
 
@@ -28,14 +28,14 @@
 To run this project locally, you can follow these steps:
 
 1. Clone the repository:
-- git clone https://github.com/prayer-on/PROJECT-2.git
+`git clone https://github.com/prayer-on/PROJECT-2.git`
 
 2. Open the project:
 - Open the "index.html" file in the browser that you prefer the most.
-- If you're on VS Code you can use the Live Server extension and simply click the "Go Live" at the bottom right.
+- If you're on VS Code you can use the Live Server extension and simply click the "Go Live" button at the bottom right.
 
 
-<h3>🧠 What i've learned:</h3>
+<h3>🧠 What I've learned:</h3>
 
 - Flexbox
 - Media query
@@ -54,12 +54,7 @@ To run this project locally, you can follow these steps:
 - Optimizing responsiveness
 
 
-<h3>📩 Email:</h3>
-
-- prayer.onaiwu@gmail.com
-
-
 <h3>👤 Author:</h3>
 
-- Prayer Onaiwu
+- Prayer Onaiwu - [prayer.onaiwu@gmail.com]
 
