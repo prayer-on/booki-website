@@ -7,6 +7,11 @@
 
 -
 
+<h3>🛠️ Technologies:</h3>
+
+- HTML5
+- CSS3
+
 
 <h3>💻 Functionalities:</h3>
 
