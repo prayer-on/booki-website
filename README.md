@@ -23,14 +23,15 @@
 
 <h3>📸 Screenshot:</h3>
 
-<img width="1440" height="779" alt="Screenshot 2026-05-03 alle 18 17 42" src="https://github.com/user-attachments/assets/a5da3bc1-137e-4d17-a2ae-7fc0c696750b" />
+<img width="1440" height="776" alt="Screenshot 2026-05-03 alle 18 17 00" src="https://github.com/user-attachments/assets/c903257e-6316-4107-9fbe-b6090b4905df" />
 <br>
 <img width="1440" height="779" alt="Screenshot 2026-05-03 alle 18 17 24" src="https://github.com/user-attachments/assets/7b96d603-94e8-48c7-a3ed-f3c06d84d277" />
 <br>
-<img width="1440" height="776" alt="Screenshot 2026-05-03 alle 18 17 00" src="https://github.com/user-attachments/assets/c903257e-6316-4107-9fbe-b6090b4905df" />
+<img width="1440" height="779" alt="Screenshot 2026-05-03 alle 18 17 42" src="https://github.com/user-attachments/assets/a5da3bc1-137e-4d17-a2ae-7fc0c696750b" />
 <br>
 
 <h3>⚙️ Installation:</h3>
+
 To run this project locally, you can follow these steps:
 
 1. Clone the repository:
