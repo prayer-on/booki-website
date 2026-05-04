@@ -38,7 +38,7 @@ To run this project locally, you can follow these steps:
 git clone https://github.com/prayer-on/PROJECT-2.git
 ```
 
-3. Open the project:
+2. Open the project:
 - Open the "index.html" file in the browser that you prefer the most.
 - If you're on VS Code you can use the Live Server extension and simply click the "Go Live" button at the bottom right.
 
