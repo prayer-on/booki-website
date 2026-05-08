@@ -37,12 +37,12 @@ To run this project locally, you can follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/prayer-on/PROJECT-2.git
+git clone https://github.com/prayer-on/booki-website.git
 ```
 
 2. Select the Project folder:
 ```bash
-cd PROJECT-2
+cd booki-website
 ```
    
 3. Open the browser:
